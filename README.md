@@ -4,6 +4,9 @@
 
 This project was created to demonstrate the functionality of the inquirer package. The application allows users to select or create a vehicle to perform actions with. I built this project because it allowed me to practice using the inquirer and typescript. During this project I learned how to implement classes from typescript and export them to be used across multiple files. 
 
+Link to walkthrough:
+https://youtu.be/040pLzJeL6A
+
 ## Installation
 
 Run the command "npm i" in the terminal at the root level to install the npm packages for the project
